@@ -1,4 +1,4 @@
-# About Me:
+# About Me
 hey, i'm ibad.<br><br>cs student @ bahria university karachi · building things that matter
 
 ## 🌐 Socials
