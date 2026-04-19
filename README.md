@@ -7,7 +7,7 @@ hey, i'm ibad.<br><br>cs student @ bahria university karachi · building things 
 ## 🚀 Things I've Shipped
 **[hunar](https://hunarforhire.netlify.app)** — pakistani service marketplace connecting customers with local workers. full-stack, deployed on netlify.<br>
 **[student save](https://github.com/AliArsalanSiddiqui/StudentSaveapp)** — cross-platform mobile app for university students to find verified campus discounts. pitched to 350+ people.<br>
-**[navgraph](https://github.com/ibadkhvn/NavGraph)** — c++ campus nav system using graph algorithms for shortest path and multi-stop indoor routing.
+**[navgraph](https://github.com/ibadkhvn/NavGraph)** — c++ campus nav system using graph algorithms for shortest path and multi-stop indoor routing. <br>
 **[Debate-ME](https://debate-me-app.vercel.app/)** — AI-powered debate app where you argue any topic and the AI always pushes back. Built with React and Node.js, deployed on Vercel. <br>
 
 # 💻 Tech Stack
